@@ -1,0 +1,24 @@
+body
+{
+    background-image: url(https://i.pinimg.com/originals/13/c6/00/13c6008f2afbd4711d08898e19835a8c.gif);
+
+}
+
+h1
+{color: honeydew;}
+p{color: beige;}
+p{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+h1
+{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+body
+{background-size: 35%;}
+p
+{font-size: 1cm;}
+p
+{color: darkorange;}
+h1
+{font-size: 2cm;}
+h1{
+    box-shadow: inset 0 0 1em rgb(62, 64, 165), 0 0 2em red;
+    /* deux ombres dans la liste et des rayons de flou pour chacune */
+  }
